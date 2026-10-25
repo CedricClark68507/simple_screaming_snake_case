@@ -1,6 +1,6 @@
 [project]
 name = "simple-screaming-snake-case"
-version = "0.1.0"
+version = "0.1.1"
 description = "A focused Python utility that converts identifier names between camelCase, PascalCase, snakecase, and SCREAMINGSNAKECASE."
 requires-python = ">=3.10"
 dependencies = []
